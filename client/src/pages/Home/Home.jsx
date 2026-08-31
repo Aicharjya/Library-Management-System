@@ -1,10 +1,13 @@
 function Home() {
   return (
     <div>
-      <h1>Home</h1>
-      <p>Home page placeholder content.</p>
+      <p>Page Title: Home</p>
+
+      <h1>Library Management System</h1>
+
+      <p>Welcome to the Library Management System.</p>
     </div>
-  );
+  )
 }
 
-export default Home;
+export default Home

@@ -1,10 +1,13 @@
 function Profile() {
   return (
     <div>
+      <p>Page Title: Profile</p>
+
       <h1>Profile</h1>
-      <p>Profile page placeholder content.</p>
+
+      <p>View and manage your account details.</p>
     </div>
-  );
+  )
 }
 
-export default Profile;
+export default Profile

@@ -1,10 +1,13 @@
 function Login() {
   return (
     <div>
+      <p>Page Title: Login</p>
+
       <h1>Login</h1>
-      <p>Login page placeholder content.</p>
+
+      <p>Sign in to continue.</p>
     </div>
-  );
+  )
 }
 
-export default Login;
+export default Login
